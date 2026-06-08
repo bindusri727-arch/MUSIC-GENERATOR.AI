@@ -1,2 +1,21 @@
-# MUSIC-GENERATOR.AI
-A Music Generator is an Artificial Intelligence (AI) application that creates original music automatically using machine learning and deep learning techniques. It analyzes musical patterns, rhythms, melodies, and harmonies from existing music datasets and generates new musical compositions based on the learned patterns.
+# AI Music Generator
+
+## Description
+This project generates musical note sequences using JavaScript and plays them through the browser.
+
+## Features
+- Random Note Generation
+- Music Playback
+- Interactive Interface
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+- Web Audio API
+
+## How to Run
+1. Download the project.
+2. Open index.html.
+3. Click Generate Music.
+4. Click Play Music.
